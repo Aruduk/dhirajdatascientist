@@ -8,7 +8,8 @@
 - 💞️ I’m looking to collaborate on 
     - 📊 Projects 
     - 🚁 Non-profit Skill Building Organization 
-- 📫 How to reach me:📧 dhiraj.datascientist@gmail.com 
+- 📫 How to reach me:📧 dhiraj.datascientist@gmail.com
+
 **Quick Skills Overview:**
 - **🌐 Full Stack Dev:** Flask, Django
     - 💪 Proficient in deploying and maintaining web applications
