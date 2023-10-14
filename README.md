@@ -4,7 +4,7 @@
     - 💻 Coding
     - 🌍 Travelling
     - 🚀 Training,
-    - 🔍 Exploring and learning etc.
+    - 🔍 Exploring and learning new things.
 - 🌱 I’m currently learning **Time Management** ⏰
 - 💞️ I’m looking to collaborate on 
     - 📊 Projects 
