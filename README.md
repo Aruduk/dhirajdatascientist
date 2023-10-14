@@ -3,7 +3,8 @@
 - 👀 I’m interested in 
     - 💻 Coding
     - 🌍 Travelling
-    - 🚀 Training, etc.
+    - 🚀 Training,
+    - 🔍 Exploring and learning etc.
 - 🌱 I’m currently learning **Time Management** ⏰
 - 💞️ I’m looking to collaborate on 
     - 📊 Projects 
