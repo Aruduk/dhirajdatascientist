@@ -8,7 +8,19 @@
 - 🌱 I’m currently learning **Time Management** ⏰
 - 💞️ I’m looking to collaborate on 
     - 📊 Projects 
-    - 🚁 Non-profit Skill Building Organization 
+    - 🚁 Non-profit Skill Building Organization
+- Languages
+    - Hindi
+    - English
+    - Bhojpuri
+    - Bengali
+    - Punjabi
+    - Maithili
+    - Kannada (Learning)
+    - Tamil (Learning)
+    - Telugu
+    - Marathi
+    etc     
 - 📫 How to reach me:📧 dhiraj.datascientist@gmail.com
 
 **Quick Skills Overview:**
