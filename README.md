@@ -17,7 +17,7 @@
         - Are bhai-bahan, kaise ho aap sab?
         - I just love 💞️ this language soooo much. a language close to my heart      
     - Kannada
-        - Eyy anna-tangi, hege iddira?
+        - Anna-Thamma's..!, hegiddira?
         - I am learning this and falling in love 💞️ with it
     - English
         - Hey bro and sis, how are you all? 
