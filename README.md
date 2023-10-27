@@ -10,13 +10,13 @@
     - 📊 Projects 
     - 🚁 Non-profit Skill Building Organization
 - Languages
-    - Hindi
+    - Bhojpuri (This is my mother tongue, and i don't have to say anything 👀)
+    - Hindi ( I just love 💞️ this language soooo much )
+    - Kannada (I am learning this and falling in love 💞️ with it)
     - English
-    - Bhojpuri
     - Bengali
     - Punjabi
     - Maithili
-    - Kannada (Learning)
     - Tamil (Learning)
     - Telugu
     - Marathi
