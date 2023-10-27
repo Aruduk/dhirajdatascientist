@@ -11,9 +11,9 @@
     - 🚁 Non-profit Skill Building Organization
 - Languages
     - Bhojpuri (This is my mother tongue, and i don't have to say anything 👀)
-    - Hindi ( I just love 💞️ this language soooo much )
+    - Hindi ( I just love 💞️ this language soooo much. a language close to my heart )
     - Kannada (I am learning this and falling in love 💞️ with it)
-    - English
+    - English ( To be frank, this language is also very important to sustain globally/global communication)
     - Bengali
     - Punjabi
     - Maithili
